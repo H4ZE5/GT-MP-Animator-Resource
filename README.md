@@ -1,7 +1,6 @@
 # GT-MP-Animator-Resource
 
-This resource is made for GT-MP platform.
-This Animator resource lets you play all animations avaliable in this list:
+Animator resource is made for GT-MP platform, it lets you play all animations avaliable in this list:
 https://wiki.gt-mp.net/index.php?title=Animations
 
 It's a very simple but useful script. Searching through the animations list is like looking for needle in the haystack, considering about 2/5 of all anims cannot be applied to ped and 1/2 of those you wouldn't really find use for. It's a great solution if you don't want to install any mods to view anims. Just include the file and preview! Save included.
