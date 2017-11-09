@@ -1,7 +1,6 @@
 # GT-MP-Animator-Resource
 
-Hi everyone,
-
+This resource is made for GT-MP platform.
 This Animator resource lets you play all animations avaliable in this list:
 https://wiki.gt-mp.net/index.php?title=Animations
 
